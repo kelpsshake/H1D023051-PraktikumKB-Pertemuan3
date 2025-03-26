@@ -1,6 +1,6 @@
 
 # Penjelasan mengenai program takjil.py
-- Menngunakan 2 library yaitu random dan datetime:
+- Menggunakan 2 library yaitu random dan datetime:
   Random untuk memilih takjil secara acak dan datetime untuk menunjukan tanggal hari ini
 - Membuat menu takjil (dictionary):
   takjil_menu menyimpan daftar takjil sebagai key dan harga nya sebagai value
